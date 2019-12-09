@@ -14,6 +14,26 @@ background-size: cover;
 color: blanchedalmond !important;
 
 }
+@media(max-width:1100px){
+    
+    #himg{
+        height: 20px;
+    }
+    .header{
+      padding-left: 0px !important;
+    }
+    #he2,#he4{
+        color:white;
+        margin: 0,0,0 !important;
+        text-shadow: 2px 2px rgb(184, 138, 138);
+        font-size: 0;
+       }
+    #he2{
+        padding-top: 8px;
+        font-size: 2rem !important;
+    }
+    
+    }
 
 
 
